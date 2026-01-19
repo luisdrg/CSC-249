@@ -19,7 +19,7 @@ I get into projects (mostly unfinished) that mix tech with everyday stuff: fanta
 
 ## Fun Facts
 * I am a little anti-AI. It's one of the first settings I disable from my IDE. However, I find it useful for to format READMEs and helping me debug. 
-
+* I once made a bot that alerts people about drops before they sell out. It started as a random idea and turned into an actual tool that people use.
 
 ## Find Me
 
